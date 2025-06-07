@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erohr.github.io/sitemap.xml
+Sitemap: https://e-rohr.github.io/sitemap.xml
